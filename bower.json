@@ -1,0 +1,22 @@
+{
+  "name": "kanjifanclub-alecrem-com",
+  "homepage": "http://kanjifanclub.alecrem.com/",
+  "authors": [
+      "Kanji Fanclub"
+  ],
+  "description": "Kanjizushi landing page based on Argon Design System",
+  "main": "gulpfile.js",
+  "keywords": [
+      "argon",
+      "system design",
+      "bootstrap",
+      "design",
+      "google",
+      "twitter"
+  ],
+  "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components"
+  ]
+}

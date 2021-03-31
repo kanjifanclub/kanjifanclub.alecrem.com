@@ -1,0 +1,13 @@
+{
+  "name": "kanjifanclub/kanjifanclub.alecrem.com",
+  "description": "Kanjizushi landing page based on Argon Design System",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kanji Fanclub",
+      "email": "kanjifanclub@alecrem.com"
+    }
+  ],
+  "require": {}
+}
