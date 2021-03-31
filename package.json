@@ -1,0 +1,16 @@
+{
+  "name": "kanjifanclub-alecrem-com",
+  "description": "Kanjizushi landing page based on Argon Design System",
+  "version": "1.0.0",
+  "homepage": "http://kanjifanclub.alecrem.com/",
+  "author": "Kanji Fanclub",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-open": "^3.0.1"
+  }
+}
