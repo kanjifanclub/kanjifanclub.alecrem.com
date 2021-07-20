@@ -20965,7 +20965,7 @@ textarea[resize="horizontal"] {
 
 .separator-bottom {
   top: auto;
-  bottom: 0;
+  bottom: -0.5px;
 }
 
 .separator-bottom svg {
