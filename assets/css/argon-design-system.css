@@ -24333,3 +24333,7 @@ pre>code.highlight {
 .game-section-row {
   margin-bottom: 4em;
 }
+
+.game-section-row h1 {
+  color: #2d582f;
+}
